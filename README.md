@@ -787,6 +787,7 @@ ERROR: Could not find a version that satisfies the requirement chromadbpip
 ---
 
 ## 👨‍💻 Author
+VARSHITH CHIDURALA
 
 Built as part of the **Advanced GenAI Internship Program**
 
